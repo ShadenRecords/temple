@@ -27,9 +27,9 @@
     {
       "id": "exit",
       "title": "EXIT",
-      "description": "Leave the temple.",
-      "button": "Leave",
-      "url": "https://shaden.technology/nexus/",
+      "description": "Return to the Nexus District.",
+      "button": "Return to the District",
+      "url": "https://shaden.technology/nexus/?return=temple&spawn=temple-exit",
       "newTab": false,
       "image": null
     }
